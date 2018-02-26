@@ -2,3 +2,4 @@
 
 * Don Patch
 * Bobobo
+* Capitán America
